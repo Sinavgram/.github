@@ -36,5 +36,15 @@ These archived pages serve as historical references to the project's public avai
 - Maintain documented and version-controlled software development.
 
 ---
+<div style="display: flex; overflow-x: auto; gap: 16px; padding-bottom: 10px;">
+  <img src="assets/screenshot1.png" width="200" alt="Screenshot 1" />
+  <img src="assets/screenshot2.png" width="200" alt="Screenshot 2" />
+  <img src="assets/screenshot3.png" width="200" alt="Screenshot 3" />
+  <img src="assets/screenshot4.png" width="200" alt="Screenshot 4" />
+  <img src="assets/screenshot5.png" width="200" alt="Screenshot 5" />
+  <img src="assets/screenshot6.png" width="200" alt="Screenshot 6" />
+  <img src="assets/screenshot7.png" width="200" alt="Screenshot 7" />
+  <img src="assets/screenshot8.png" width="200" alt="Screenshot 8" />
+</div>
 
 *Developed and maintained as an independent software project.*
